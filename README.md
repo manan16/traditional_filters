@@ -1,4 +1,4 @@
-# traditional_filters
+## traditional_filters
 This  code contains different traditional filters and edge detection used for denoising images
 The filters in this code used are:
 - Anisotropic
